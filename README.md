@@ -12,7 +12,7 @@ This firmware is designed for the following RP2350-based boards with integrated 
 
 - **[FRANK](https://rh1.tech/projects/frank?area=about)** — A versatile development board based on RP Pico 2, HDMI output, and extensive I/O options.
 - **[Murmulator](https://murmulator.ru)** — A compact retro-computing platform based on RP Pico 2, designed for emulators and classic games.
-- **[ OLIMEX RP2350PC]
+- **[OLIMEX RP2350 ](https://www.olimex.com/Products/RaspberryPi/PICO/RP2350pc/))** 
 Both boards provide all necessary peripherals out of the box—no additional wiring required.
 
 ## Features
