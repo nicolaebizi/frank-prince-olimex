@@ -1,0 +1,19 @@
+# Build directories
+build/
+build-make/
+build-olimex-*/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+/release
+
+# Game data (copyrighted — fetch from the original repo / official site,
+# copy to the FAT32 card yourself; NEVER commit)
+sdcard/prince.zip
+sdcard/prince/
