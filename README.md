@@ -1,4 +1,4 @@
-# FRANK Prince
+# FRANK Prince NEW! IN OLIMEX RP2350PC
 
 Official page: **[frank.rh1.tech](https://frank.rh1.tech/)** — hub for all FRANK boards and firmware.
 
